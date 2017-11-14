@@ -11,4 +11,4 @@ I summarized how I did it here (Coming soon...)
 # Reference
 1. Distance Method (Chapter 4 of When Life is Linear by Tim Chartier)
 2. [Neural Network](https://github.com/ioneone/NeuralNetwork)
-3. [MNIST dataset](http://yann.lecun.com/exdb/mnist/)
+3. [MNIST dataset](http://yann.lecun.com/exdb/mnist/) (I did not upload mnist_train.csv because the file was too big)
